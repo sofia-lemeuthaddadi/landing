@@ -1,0 +1,30 @@
+.btn-brown{
+	background-color: #b6937e;
+	padding:15px 20px;
+	border-radius : 2px;
+	color:white;
+	text-transform: uppercase;
+	font-weight:bold;
+}
+
+.btn-brown:hover{
+	background-color: #7891A5;
+	color:white;
+}
+
+.btn-blue{
+	width: 240px;
+	display: inline-block;
+	 margin: 0 auto 20px;
+    padding: 10px;	
+	color: black;
+	font-style: italic;
+	font-size: 15px;
+    border-radius : 2px;
+    border: 1px solid black; 
+}
+
+.btn-blue:hover{
+	background-color:#aac3cc;
+}
+
